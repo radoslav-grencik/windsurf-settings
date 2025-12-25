@@ -1,0 +1,155 @@
+{
+  "[apacheconf]": {
+    "editor.tabSize": 4
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[java]": {
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[latte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[neon]": {
+    "editor.tabSize": 4
+  },
+  "[php]": {
+    "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer",
+    "editor.tabSize": 4
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.tabSize": 4
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "[tailwindcss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "comment-divider.length": 60,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "JetBrains Mono Light",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.linkedEditing": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.renderControlCharacters": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 160,
+  "emmet.includeLanguages": {
+    "latte": "html"
+  },
+  "eslint.ignoreUntitled": true,
+  "eslint.lintTask.enable": true,
+  "eslint.run": "onSave",
+  "eslint.validate": [
+    "astro",
+    "javascript",
+    "javascriptreact",
+    "svelte",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "filesFirst",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "{.env,.env.*}": "dotenv"
+  },
+  "files.autoGuessEncoding": true,
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.allowForcePush": true,
+  "git.autofetch": "all",
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.pullBeforeCheckout": true,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "php-cs-fixer.fixOnSave": false,
+  "php-cs-fixer.ignoreEnv": true,
+  "prettier.documentSelectors": ["**/*.latte"],
+  "prettier.singleQuote": true,
+  "remote.autoForwardPortsSource": "hybrid",
+  "search.showLineNumbers": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "latte": "html"
+  },
+  "terminal.integrated.confirmOnExit": "hasChildProcesses",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontFamily": "JetBrains Mono Light",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontWeight": "400",
+  "terminal.integrated.fontWeightBold": "500",
+  "terminal.integrated.scrollback": 10000,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.editor.labelFormat": "short",
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 14
+}
