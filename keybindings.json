@@ -4,6 +4,17 @@
     "key": "shift+delete"
   },
   {
+    "command": "-windsurf.prioritized.chat.openNewConversation",
+    "key": "ctrl+shift+l",
+    "when": "!terminalFocus"
+  },
+  {
+    "args": true,
+    "command": "-windsurf.prioritized.chat.openNewConversation",
+    "key": "ctrl+shift+l",
+    "when": "!terminalFocus && !windsurf.deepwikiPanel.focused"
+  },
+  {
     "command": "editor.action.deleteLines",
     "key": "shift+delete",
     "when": "textInputFocus && !editorReadonly"
