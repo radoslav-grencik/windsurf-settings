@@ -6,6 +6,7 @@ windsurf --install-extension breadnaught.vscode-ignore
 windsurf --install-extension davidanson.vscode-markdownlint
 windsurf --install-extension dbaeumer.vscode-eslint
 windsurf --install-extension dbcode.dbcode
+windsurf --install-extension denoland.vscode-deno
 windsurf --install-extension edwinhuish.better-comments-next
 windsurf --install-extension esbenp.prettier-vscode
 windsurf --install-extension formulahendry.auto-rename-tag
@@ -27,6 +28,7 @@ windsurf --install-extension ms-vscode-remote.vscode-remote-extensionpack
 windsurf --install-extension ms-vscode.remote-explorer
 windsurf --install-extension ms-vscode.remote-server
 windsurf --install-extension nhoizey.gremlins
+windsurf --install-extension saoudrizwan.claude-dev
 windsurf --install-extension stackbreak.comment-divider
 windsurf --install-extension svelte.svelte-vscode
 windsurf --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
