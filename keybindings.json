@@ -1,22 +1,22 @@
 [
   {
     "command": "-editor.action.clipboardCutAction",
-    "key": "shift+delete"
+    "key": "shift+delete",
   },
   {
     "command": "-windsurf.prioritized.chat.openNewConversation",
     "key": "ctrl+shift+l",
-    "when": "!terminalFocus"
+    "when": "!terminalFocus",
   },
   {
     "args": true,
     "command": "-windsurf.prioritized.chat.openNewConversation",
     "key": "ctrl+shift+l",
-    "when": "!terminalFocus && !windsurf.deepwikiPanel.focused"
+    "when": "!terminalFocus && !windsurf.deepwikiPanel.focused",
   },
   {
     "command": "editor.action.deleteLines",
     "key": "shift+delete",
-    "when": "textInputFocus && !editorReadonly"
-  }
+    "when": "textInputFocus && !editorReadonly",
+  },
 ]
