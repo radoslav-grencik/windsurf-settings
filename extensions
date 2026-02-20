@@ -22,7 +22,6 @@ windsurf --install-extension ms-azuretools.vscode-containers
 windsurf --install-extension ms-python.black-formatter
 windsurf --install-extension ms-python.debugpy
 windsurf --install-extension ms-python.python
-windsurf --install-extension ms-python.vscode-python-envs
 windsurf --install-extension nhoizey.gremlins
 windsurf --install-extension saoudrizwan.claude-dev
 windsurf --install-extension stackbreak.comment-divider
