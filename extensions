@@ -25,7 +25,6 @@ windsurf --install-extension ms-python.debugpy
 windsurf --install-extension ms-python.python
 windsurf --install-extension ms-python.vscode-python-envs
 windsurf --install-extension nhoizey.gremlins
-windsurf --install-extension saoudrizwan.claude-dev
 windsurf --install-extension stackbreak.comment-divider
 windsurf --install-extension svelte.svelte-vscode
 windsurf --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
